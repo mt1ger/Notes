@@ -14,3 +14,6 @@
 * .tmux.conf
 	- `~/`
 
+## For Clang-format
+* .clang-format
+	- ~/
